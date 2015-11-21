@@ -1,0 +1,13 @@
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\ImportStockDataGUI.exe
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\ImportStockDataGUI.pdb
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\Dapper.dll
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\Infrastructure.dll
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\SimpleCRUD.dll
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\Infrastructure.pdb
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\bin\Debug\SimpleCRUD.pdb
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.csprojResolveAssemblyReference.cache
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.Form1.resources
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.Properties.Resources.resources
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.csproj.GenerateResource.Cache
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.exe
+C:\Users\Meyer\Documents\Visual Studio 2015\Projects\Stocks\ImportStockDataGUI\obj\x86\Debug\ImportStockDataGUI.pdb
